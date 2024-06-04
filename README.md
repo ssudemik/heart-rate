@@ -3,13 +3,15 @@ Arduino kullanımıyla, Esp32 ve Pulse Sensörü ile nabız ölçer
 
 Bu proje, bir ESP32 mikrodenetleyici kullanarak nabız ölçümü yapmayı amaçlamaktadır. Projede bir nabız sensörü, ESP32 geliştirme kartı ve Blynk platformu kullanılarak gerçek zamanlı olarak nabız verileri toplanıp izlenmiştir.
 PROJEDE KULLANILAN ARAÇALAR
-•	ESP32 Geliştirme Kartı ![image](https://github.com/ssudemik/heart-rate/assets/77544171/b23e8583-e746-49d3-a52d-31f695386808)
-•	Pulse Sensor (Nabız Sensörü) ![image](https://github.com/ssudemik/heart-rate/assets/77544171/d4567db6-4692-4f52-b60a-e9db5c179bed)
+•	ESP32 Geliştirme Kartı 
+•	Pulse Sensor (Nabız Sensörü) 
 •	Breadboard
 •	Jumper Kabloları
 •	USB Kablosu
 •	Blynk Uygulaması
         
+![image](https://github.com/ssudemik/heart-rate/assets/77544171/b23e8583-e746-49d3-a52d-31f695386808)
+![image](https://github.com/ssudemik/heart-rate/assets/77544171/d4567db6-4692-4f52-b60a-e9db5c179bed)
 
 PROJENİN AMACI
 Projenin temel amacı, bireylerin kalp atış hızını (nabız) ölçen ve bu veriyi gerçek zamanlı olarak izlemelerini sağlayan bir sistem geliştirmektir. Bu sistem, taşınabilir ve düşük maliyetli bir sağlık izleme cihazı olarak kullanılabilir. Özellikle, kalp sağlığına dikkat eden bireyler ve sporcular için pratik bir çözüm sunmayı hedeflemektedir. IoT (Nesnelerin İnterneti) teknolojilerini kullanarak geleneksel nabız ölçer cihazlarının ötesine geçmektir. Bunu sağlamak için, nabız verilerinin Wi-Fi aracılığıyla Blynk platformuna gönderilmesi ve kullanıcıların bu verileri akıllı telefonları üzerinden kolayca izleyebilmesi sağlanmıştır. Böylece, kullanıcılar herhangi bir yerde ve zamanda nabız verilerine erişebilir ve geçmiş verilerini analiz edebilir.
